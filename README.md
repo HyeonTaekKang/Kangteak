@@ -6,8 +6,7 @@ The reason why I study programming and like it is because I can create what I im
 
 
 Someday, I want to make my own service and run it.  
-And , I hope the service I made will help many people.:sunflower:<br/><br/><br/>
-
+And , I hope the service I made will help many people.:sunflower:<br/><br/>
 
 ### 🛠 Skills
 
@@ -15,6 +14,7 @@ And , I hope the service I made will help many people.:sunflower:<br/><br/><br/>
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"> <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"> <img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"> <img src="https://img.shields.io/badge/Query DSL-0769AD?style=flat-square&logo=&logoColor=white">  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">  
 
 <img src="https://img.shields.io/badge/java-E34F26?style=flat-square&logo=java&logoColor=white"> 
+
 
 <!--
 **Kangteak/Kangteak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
